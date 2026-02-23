@@ -1,2 +1,2 @@
-from tasks.py import *
+from .tasks import *
 
